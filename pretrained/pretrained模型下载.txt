@@ -1,0 +1,1 @@
+前往 swin-transfromer 官方下载 swin tiny模型即可
