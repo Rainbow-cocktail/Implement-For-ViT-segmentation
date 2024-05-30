@@ -122,7 +122,7 @@ logs
 
 
 ## 待优化
-
+- 目前该仓库仅自用！！！！！因为结果现在是一坨，现在正在优化中
 - 注重需要修改 num class 和 crop size  还有模型的img size部分，这部分的配置现在内嵌于里代码里面，还没有提出来，因此需要config文件统一写
 - 修改lr rate等策略到配置文件
 - yaml配置文件，避免 random crop  colormap等需要进入具体文件一个一个调整
